@@ -7,7 +7,7 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['Hanan']
+global.Owner = ['923258031878']
 global.OwnerNumber = ['923258031878']
 global.ownertag = ['923258031878']
 global.BotName = "MikubotByHanan"
